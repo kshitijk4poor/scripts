@@ -22,5 +22,7 @@
 ### Example
 ```bash
 ./subdomain.sh
+enter domain
+github.com
 ```
 
