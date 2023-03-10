@@ -19,7 +19,7 @@
 
 3) edit the installation directory for [CTFR](https://github.com/UnaPibaGeek/ctfr) in the script.
 
-### Example
+### Installation
 ```bash
 git clone https://github.com/kshitijk4poor/scripts
 cd scripts/
