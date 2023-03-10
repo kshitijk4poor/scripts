@@ -28,4 +28,4 @@ github.com
 subdomains/subdomains.txt will contain all the enumerated subdomains.
 
 ### TODO
-[ ] Make a script to install all the prerequisites.
+-[ ] Make a script to install all the prerequisites.
