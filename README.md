@@ -31,3 +31,4 @@ subdomains/subdomains.txt will contain all the enumerated subdomains.
 ### TODO
 - [ ] Make a script to install all the prerequisites.
 - [ ] Move subdomains.txt out of the folder and remove the files of the folder recursively.
+- [ ] Add GitHub Domains.
